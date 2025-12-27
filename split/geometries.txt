@@ -1,0 +1,779 @@
+BabyBlue Chicken:4x7
+BabyBrown Chicken:4X7
+BabyBrown Cow:8X10
+BabyGoat:8X10
+BabyGolden Chicken:4X14
+BabyOstrich:8X10
+BabyPig:8X10
+BabyRabbit:4X7
+BabySheep:8X10
+BabyVoid Chicken:4X7
+BabyWhite Chicken:4X14
+BabyWhite Cow:8X10
+Blue Chicken:4X7
+Brown Chicken:4X7
+Brown Cow:8X10
+cat:8X16
+cat1:8X16
+cat2:8X16
+cat3:8X18
+cat4:8X18
+cat5:8X18
+Dinosaur:4X7
+dog:8X18
+dog1:8X18
+dog2:8X18
+dog3:8X18
+dog4:8X18
+dog5:8X18
+Duck:4X14
+Error:4X7
+Goat:8X10
+Golden Chicken:4X7
+horse:14X8
+Ostrich:8X10
+Pig:8X10
+Rabbit:4X7
+ShearedSheep:8X10
+Sheep:8X10
+turtle:8X18
+turtle1:8X18
+Void Chicken:4X7
+White Chicken:4X7
+White Cow:8X10
+Barn:7X8
+Beach Cabin:15X7
+Beach Cabin_PaintMask:15X7
+Big Barn:7X8
+Big Coop:6X8
+Big Shed:7X8
+Big Shed_PaintMask:7X8
+Coop:6X8
+Deluxe Barn:7X8
+Deluxe Barn_PaintMask:7X8
+Deluxe Coop:6X8
+Deluxe Coop_PaintMask:6X8
+Desert Obelisk:3X8
+Earth Obelisk:3X8
+Fish Pond:10X11
+Gold Clock:3X5
+Greenhouse:15X20
+Hay Pet Bowl:6X8
+houses:17X27
+houses_PaintMask:17X27
+Island Obelisk:3X8
+Junimo Hut:16X4
+Log Cabin:15X7
+Log Cabin_PaintMask:15X7
+Mailbox:1X2
+Mill:14X8
+Neighbor Cabin:15X7
+Neighbor Cabin_PaintMask:15X7
+Pet Bowl:6X8
+Plank Cabin:15X7
+Plank Cabin_PaintMask:15X7
+Rustic Cabin:15X7
+Rustic Cabin_PaintMask:15X7
+Shed:7X8
+Shipping Bin:2X2
+Silo:3X8
+Slime Hutch:7X7
+Stable:4X6
+Stable_PaintMask:4X6
+Stone Cabin:15X7
+Stone Cabin_PaintMask:15X7
+Stone Pet Bowl:6X8
+Trailer Cabin:15X7
+Trailer Cabin_PaintMask:15X7
+Water Obelisk:3X8
+Well:3X5
+Abigail:4X28
+Abigail_Beach:4X10
+Abigail_Winter:4X28
+Alex:4X26
+Alex_Beach:4X10
+Alex_Winter:4X26
+asldkfjsquaskutanfsldk:16X8
+Assorted_Fishermen:4X16
+Assorted_Fishermen_Winter:4X16
+Bear:8X10
+Birdie:4X12
+Bouncer:1X2
+Caroline:4X14
+Caroline_Beach:4X8
+Caroline_Winter:4X14
+Clint:4X22
+Clint_Beach:4X8
+Clint_Winter:4X22
+ClothesTherapyCharacters:4X12
+Crow:32X2
+Demetrius:4X16
+Demetrius_Beach:4X16
+Demetrius_Winter:4X16
+Elliott:4X26
+Elliott_Beach:4X10
+Elliott_Winter:4X26
+Emily:4X28
+Emily_Beach:4X12
+Emily_Winter:4X28
+Evelyn:4X12
+Evelyn_Winter:4X12
+accessories:8X8
+farmer_base:18X42
+farmer_base_bald:18X42
+farmer_base_mannequin:18X42
+farmer_base_mannequin_cursed:18X42
+farmer_girl_base:18X42
+farmer_girl_base_bald:18X42
+farmer_girl_mannequin:18X42
+farmer_girl_mannequin_cursed:18X42
+hairstyles:8X42
+hairstyles2:8X42
+hats:15X55
+hats_animals:15X55
+pants:120X86
+shirts:16X38
+Fizz:1X2
+George:4X12
+George_Winter:4X12
+Gourmand:4X4
+Governor:4X8
+Gunther:4X8
+Gus:4X14
+Gus_Winter:4X14
+Haley:4X26
+Haley_Beach:4X12
+Haley_Winter:4X24
+Harvey:4X28
+Harvey_Beach:4X8
+Harvey_Winter:4X28
+Henchman:4X6
+IslandParrot:8X10
+Jas:4X14
+Jas_Winter:4X14
+Jodi:4X14
+Jodi_Beach:4X8
+Jodi_Winter:4X14
+Junimo:8X8
+Kent:4X10
+Kent_Winter:4X10
+Krobus:4X9
+KrobusRaven:10X10
+Krobus_Trenchcoat:4X6
+Leah:4X26
+LeahExFemale:4X4
+LeahExMale:4X4
+Leah_Beach:4X10
+Leah_Winter:4X26
+Lewis:4X16
+Lewis_Beach:4X8
+Lewis_Winter:4X16
+Linus:4X14
+Linus_Winter:4X14
+Marcello:4X10
+Mariner:1X2
+Marlon:4X8
+Marnie:4X18
+Marnie_Beach:4X8
+Marnie_Winter:4X18
+Maru:4X24
+Maru_Beach:4X10
+Maru_Hospital:4X16
+Maru_Winter:4X24
+Angry Roger:8X10
+Armored Bug:4X5
+Armored Bug_dangerous:4X5
+Assassin Bug:4X5
+Bat:4X7
+Bat_dangerous:4X7
+Big Slime:8X4
+Bug:4X5
+Bug_dangerous:4X5
+Cat:4X6
+Dust Spirit_dangerous:4X3
+Dwarvish Sentry:4X6
+False Magma Cap:4X9
+Fireball:2X2
+Fly:4X9
+Fly_dangerous:4X9
+Frog:4X2
+Frost Bat:4X7
+Frost Bat_dangerous:4X7
+Grub:4X9
+Grub_dangerous:4X9
+Haunted Skull:2X5
+Haunted Skull_dangerous:2X5
+Hot Head:4X9
+Iridium Bat:4X7
+Iridium Crab:4X9
+Lava Bat:4X7
+Lava Crab:4X9
+Lava Crab_dangerous:4X9
+Lava Lurk:4X2
+Magma Sparker:7X5
+Magma Sprite:7X5
+Metal Head:4X5
+Metal Head_dangerous:4X5
+Mummy:4X10
+Mummy_dangerous:4X10
+Pepper Rex:8X16
+Rock Crab:4X9
+Rock Crab_dangerous:4X9
+Royal Serpent:10X6
+Serpent:10X6
+Shadow Brute:4X16
+Shadow Brute_dangerous:4X16
+Shadow Girl:4X6
+Shadow Sniper:8X10
+Skeleton Mage:4X12
+Skeleton Mage_dangerous:4X12
+Skeleton:4X12
+Skeleton_dangerous:4X12
+Spider:4X5
+Spiker:2X2
+Squid Kid:4X6
+Squid Kid_dangerous:4X6
+Stick Bug:4X9
+Truffle Crab:4X9
+Morris:4X12
+MrQi:4X8
+mrs_raccoon:16X16
+Pam:4X20
+Pam_Beach:4X8
+Pam_Winter:4X20
+ParrotBoy:4X14
+ParrotBoy_Winter:4X14
+Penny:4X26
+Penny_Beach:4X10
+Penny_Winter:4X26
+Pierre:4X14
+Pierre_Beach:4X8
+Pierre_Winter:4X14
+raccoon:16X16
+Robin:4X20
+Robin_Beach:4X8
+Robin_Winter:4X20
+SafariGuy:4X10
+Sam:4X28
+Sam_Beach:4X12
+Sam_JojaMart:4X28
+Sam_Winter:4X28
+Sandy:4X10
+SeaMonsterKrobus:8X12
+Sebastian:4X30
+Sebastian_Beach:4X12
+Sebastian_Winter:4X30
+Shane:4X26
+Shane_Beach:4X12
+Shane_JojaMart:4X14
+Shane_Winter:4X26
+Toddler:4X12
+Toddler_dark:4X12
+Toddler_girl:4X12
+Toddler_girl_dark:4X12
+TrashBear:8X8
+Vincent:4X14
+Vincent_Winter:4X14
+Willy:4X22
+Willy_Winter:4X22
+Wizard:4X12
+Chinese_0:64X64
+Chinese_1:64X64
+Chinese_2:64X64
+Chinese_3:64X64
+SpriteFont1.zh-CN:256X107
+Japanese_0:64X64
+Japanese_1:64X64
+Korean_00:64X64
+Korean_01:64X64
+Korean_02:64X64
+Korean_03:64X64
+Korean_04:64X64
+Korean_05:64X64
+Korean_06:64X64
+Korean_07:64X64
+Korean_08:64X64
+Korean_09:64X64
+Korean_10:64X64
+Korean_11:64X64
+Russian_0:16X16
+SmallFont.ja-JP:128X42
+SmallFont.ru-RU:64X20
+SpriteFont1.es-ES:32X17
+SpriteFont1.fr-FR:32X36
+SpriteFont1.hu-HU:32X36
+SpriteFont1:32X17
+SpriteFont1.ru-RU:64X20
+AquariumFish:30X19
+birds:10X12
+boardGame:16X20
+Book_Animation:64X4
+BundleSprites:16X8
+Concessions:8X3
+CraneGame:24X18
+CraneGame_international:24X18
+Cursors.de-DE:44X141
+Cursors.es-ES:44X141
+Cursors.fr-FR:44X141
+Cursors.hu-HU:44X141
+Cursors.it-IT:44X141
+Cursors.ja-JP:44X141
+Cursors.ko-KR:44X141
+Cursors:44X141
+Cursors.pt-BR:44X141
+Cursors.ru-RU:44X141
+Cursors.tr-TR:44X141
+Cursors.zh-CN:44X141
+Cursors2:16X20
+Cursors_1_6:32X32
+Cursors_1_6.ru-RU:32X32
+daybg:8X12
+DesertRacers:7X5
+EmoteMenu:9X6
+Fence1:3X22
+Fence2:3X22
+Fence3:3X22
+Fence5:3X22
+font_bold:8X37
+font_colored:8X37
+GemBird:16X4
+Giftbox:11X10
+JojaCDForm.de-DE:20X10
+JojaCDForm.es-ES:20X10
+JojaCDForm.fr-FR:20X10
+JojaCDForm.hu-HU:20X10
+JojaCDForm.it-IT:20X10
+JojaCDForm.ja-JP:20X10
+JojaCDForm.ko-KR:20X10
+JojaCDForm:20X10
+JojaCDForm.pt-BR:20X10
+JojaCDForm.ru-RU:20X10
+JojaCDForm.tr-TR:20X10
+JojaCDForm.zh-CN:20X10
+letterBG:80X32
+letterBG.ru-RU:80X32
+greenLight:28X28
+lantern:8X8
+pinpointLight:16X16
+projectorLight:8X10
+sconceLight:32X32
+treeLights:24X30
+windowLight:12X12
+LightRays:16X8
+MobileAtlas_manually_made.de-DE:16X32
+MobileAtlas_manually_made.es-ES:16X32
+MobileAtlas_manually_made.fr-FR:16X32
+MobileAtlas_manually_made.hu-HU:16X32
+MobileAtlas_manually_made.it-IT:16X32
+MobileAtlas_manually_made.ko-KR:16X32
+MobileAtlas_manually_made:16X32
+MobileAtlas_manually_made.pt-BR:16X32
+MobileAtlas_manually_made.ru-RU:16X32
+MobileAtlas_tencent:32X48
+Movies:32X64
+Movies.ru-RU:32X64
+nightbg:8X12
+PlayerStatusList:4X4
+PrizeTicketMenu:16X8
+SeaMonster:4X1
+stardewPanorama:40X25
+steamAnimation:4X4
+SuspensionBridge:6X3
+swimShadow:10X1
+temporary_sprites_1:32X40
+terraria_cat:16X8
+textBox:12X3
+WillysBoat:24X24
+bathhouse_tiles.es-ES:15X16
+bathhouse_tiles.fr-FR:15X16
+bathhouse_tiles.hu-HU:15X16
+bathhouse_tiles.it-IT:15X16
+bathhouse_tiles.ko-KR:15X16
+bathhouse_tiles:15X16
+bathhouse_tiles.pt-BR:15X16
+bathhouse_tiles.ru-RU:15X16
+bathhouse_tiles.tr-TR:15X16
+bathhouse_tiles.zh-CN:15X16
+boatTunnelTiles:10X13
+bugLandTiles:8X14
+busPeople:88X84
+CarolineGreenhouseTiles:8X16
+CarolineGreenhouseTiles_rainy:8X16
+cave:6X12
+characterSheet:8X18
+coopTiles.de-DE:4X21
+coopTiles.es-ES:4X21
+coopTiles.fr-FR:4X21
+coopTiles.hu-HU:4X21
+coopTiles.it-IT:4X21
+coopTiles.ja-JP:4X21
+coopTiles.ko-KR:4X21
+coopTiles:4X21
+coopTiles.pt-BR:4X21
+coopTiles.ru-RU:4X21
+coopTiles.tr-TR:4X21
+coopTiles.zh-CN:4X21
+darkroom_tiles:7X8
+DesertTiles.es-ES:16X23
+DesertTiles.fr-FR:16X23
+DesertTiles.hu-HU:16X23
+DesertTiles.it-IT:16X23
+DesertTiles.ja-JP:16X23
+DesertTiles.ko-KR:16X23
+DesertTiles:16X23
+DesertTiles.pt-BR:16X23
+DesertTiles.ru-RU:16X23
+DesertTiles.tr-TR:16X23
+DesertTiles.zh-CN:16X23
+DesertTiles_Extended:3X11
+desert_festival_tilesheet:32X34
+desert_festival_tilesheet.ru-RU:32X34
+desert_festival_tilesheet_text:8X8
+desert_festival_tilesheet_text.zh-CN:8X8
+desert_festival_tilesheet_text_international:8X8
+ElliottHouseTiles:4X14
+ElliottSeaTiles:6X5
+EmilyDreamscapeTiles:8X12
+fall_beach.es-ES:17X31
+fall_beach.fr-FR:17X31
+fall_beach.hu-HU:17X31
+fall_beach.it-IT:17X31
+fall_beach.ja-JP:17X31
+fall_beach.ko-KR:17X31
+fall_beach:17X31
+fall_beach.pt-BR:17X31
+fall_beach.ru-RU:17X31
+fall_beach.tr-TR:17X31
+fall_beach.zh-CN:17X31
+fall_island_tilesheet_1:32X40
+fall_monsterGraveTiles:3X5
+fall_outdoorsTileSheet.es-ES:25X79
+fall_outdoorsTileSheet.fr-FR:25X79
+fall_outdoorsTileSheet.hu-HU:25X79
+fall_outdoorsTileSheet.it-IT:25X79
+fall_outdoorsTileSheet.ja-JP:25X79
+fall_outdoorsTileSheet.ko-KR:25X79
+fall_outdoorsTileSheet:25X79
+fall_outdoorsTileSheet.pt-BR:25X79
+fall_outdoorsTileSheet.ru-RU:25X79
+fall_outdoorsTileSheet.tr-TR:25X79
+fall_outdoorsTileSheet.zh-CN:25X79
+fall_outdoorsTileSheet2:16X70
+fall_outdoorTileSheet_extra:8X8
+fall_Shadows:19X25
+fall_town.es-ES:32X72
+fall_town.fr-FR:32X72
+fall_town.hu-HU:32X72
+fall_town.it-IT:32X72
+fall_town.ja-JP:32X72
+fall_town.ko-KR:32X72
+fall_town:32X72
+fall_town.pt-BR:32X72
+fall_town.ru-RU:32X72
+fall_town.tr-TR:32X72
+fall_town.zh-CN:32X72
+fall_Waterfalls:36X25
+Farm Obelisk:3X9
+farmhouse_tiles:12X22
+Festivals.es-ES:32X32
+Festivals.fr-FR:32X32
+Festivals.hu-HU:32X32
+Festivals.it-IT:32X32
+Festivals.ja-JP:32X32
+Festivals.ko-KR:32X32
+Festivals:32X32
+Festivals.pt-BR:32X32
+Festivals.ru-RU:32X32
+Festivals.tr-TR:32X32
+Festivals.zh-CN:32X32
+FishingDerbyTiles.fr-FR:8X16
+FishingDerbyTiles:8X16
+FishingDerbyTiles.ru-RU:8X16
+FishingDerbyTiles_international:8X16
+floors_2:16X4
+Island_FieldOffice_Tilesheet:10X12
+Island_Hut_tilesheet:16X18
+island_tilesheet_1:32X65
+island_tilesheet_2:32X8
+JojaRuins_TileSheet:16X16
+LeoTreeHouse_Tilesheet:7X8
+masteryCaveTilesheet:15X16
+MenuTiles:16X72
+MenuTilesUncolored:16X64
+mermaid_house_tiles:9X13
+mine:16X18
+mine_dangerous:16X18
+mine_dark:16X18
+mine_dark_dangerous:16X18
+mine_desert:16X24
+mine_desert_dangerous:16X18
+mine_desert_dark:16X18
+mine_desert_dark_dangerous:16X18
+mine_dino:16X18
+mine_frost:16X18
+mine_frost_dangerous:16X18
+mine_frost_dark:16X18
+mine_frost_dark_dangerous:16X18
+mine_lava:16X20
+mine_lava_dangerous:16X20
+mine_lava_dark:16X18
+mine_lava_dark_dangerous:16X18
+mine_quarryshaft:16X18
+mine_slime:16X18
+mine_slime_dangerous:16X18
+volcano_caldera:9X20
+volcano_dungeon:16X36
+MovieTheaterJoja_TileSheet:16X16
+MovieTheaterJoja_TileSheet.ru-RU:16X16
+MovieTheaterJoja_TileSheet_international:16X16
+MovieTheaterScreen_TileSheet:20X16
+MovieTheater_TileSheet:16X16
+nightSceneMaru:30X33
+nightSceneMaruTrees:30X14
+paths:4X16
+pirates_tilesheet:19X10
+qiNutRoom_tilesheet:14X11
+samshowtiles.es-ES:10X14
+samshowtiles.fr-FR:10X14
+samshowtiles.hu-HU:10X14
+samshowtiles.ja-JP:10X14
+samshowtiles.ko-KR:10X14
+samshowtiles:10X14
+samshowtiles.pt-BR:10X14
+samshowtiles.ru-RU:10X14
+samshowtiles.zh-CN:10X14
+sebastianMountainTiles:40X25
+sebastianRideTiles:30X16
+SewerTiles:8X11
+springobjects.es-ES:24X39
+springobjects.fr-FR:24X39
+springobjects.ja-JP:24X39
+springobjects:24X39
+springobjects.pt-BR:24X39
+springobjects.ru-RU:24X39
+springobjects.tr-TR:24X39
+spring_beach.es-ES:17X31
+spring_beach.fr-FR:17X31
+spring_beach.hu-HU:17X31
+spring_beach.it-IT:17X31
+spring_beach.ko-KR:17X31
+spring_beach:17X31
+spring_beach.pt-BR:17X31
+spring_beach.ru-RU:17X31
+spring_beach.tr-TR:17X31
+spring_beach.zh-CN:17X31
+spring_island_tilesheet_1:32X40
+spring_monsterGraveTiles:3X5
+spring_outdoorsTileSheet.es-ES:25X79
+spring_outdoorsTileSheet.fr-FR:25X79
+spring_outdoorsTileSheet.hu-HU:25X79
+spring_outdoorsTileSheet.it-IT:25X79
+spring_outdoorsTileSheet.ja-JP:25X79
+spring_outdoorsTileSheet.ko-KR:25X79
+spring_outdoorsTileSheet:25X79
+spring_outdoorsTileSheet.pt-BR:25X79
+spring_outdoorsTileSheet.ru-RU:25X79
+spring_outdoorsTileSheet.tr-TR:25X79
+spring_outdoorsTileSheet.zh-CN:25X79
+spring_outdoorsTileSheet2:16X70
+spring_outdoorTileSheet_extra:8X8
+spring_Shadows:19X25
+spring_town.es-ES:32X72
+spring_town.fr-FR:32X72
+spring_town.hu-HU:32X72
+spring_town.it-IT:32X72
+spring_town.ja-JP:32X72
+spring_town.ko-KR:32X72
+spring_town:32X72
+spring_town.pt-BR:32X72
+spring_town.ru-RU:32X72
+spring_town.tr-TR:32X72
+spring_town.zh-CN:32X72
+spring_Waterfalls:36X25
+stadium_tiles:4X19
+submarine_tilesheet:24X22
+summer_beach.es-ES:17X31
+summer_beach.fr-FR:17X31
+summer_beach.hu-HU:17X31
+summer_beach.it-IT:17X31
+summer_beach.ko-KR:17X31
+summer_beach:17X31
+summer_beach.pt-BR:17X31
+summer_beach.ru-RU:17X31
+summer_beach.tr-TR:17X31
+summer_beach.zh-CN:17X31
+summer_island_tilesheet_1:32X40
+summer_monsterGraveTiles:3X5
+summer_outdoorsTileSheet.es-ES:25X79
+summer_outdoorsTileSheet.fr-FR:25X79
+summer_outdoorsTileSheet.hu-HU:25X79
+summer_outdoorsTileSheet.it-IT:25X79
+summer_outdoorsTileSheet.ja-JP:25X79
+summer_outdoorsTileSheet.ko-KR:25X79
+summer_outdoorsTileSheet:25X79
+summer_outdoorsTileSheet.pt-BR:25X79
+summer_outdoorsTileSheet.ru-RU:25X79
+summer_outdoorsTileSheet.tr-TR:25X79
+summer_outdoorsTileSheet.zh-CN:25X79
+summer_outdoorsTileSheet2:16X70
+summer_outdoorTileSheet_extra:8X8
+summer_Shadows:19X25
+summer_town.es-ES:32X72
+summer_town.fr-FR:32X72
+summer_town.hu-HU:32X72
+summer_town.it-IT:32X72
+summer_town.ja-JP:32X72
+summer_town.ko-KR:32X72
+summer_town:32X72
+summer_town.pt-BR:32X72
+summer_town.ru-RU:32X72
+summer_town.tr-TR:32X72
+summer_town.zh-CN:32X72
+summer_Waterfalls:36X25
+townInterior.de-DE:32X68
+townInterior.es-ES:32X68
+townInterior.fr-FR:32X68
+townInterior.hu-HU:32X68
+townInterior.it-IT:32X68
+townInterior.ja-JP:32X68
+townInterior.ko-KR:32X68
+townInterior:32X68
+townInterior.pt-BR:32X68
+townInterior.ru-RU:32X68
+townInterior.tr-TR:32X68
+townInterior.zh-CN:32X68
+townInterior_2:32X41
+wallpapers_2:16X6
+walls_and_floors:16X43
+winter_beach.es-ES:17X31
+winter_beach.fr-FR:17X31
+winter_beach.hu-HU:17X31
+winter_beach.it-IT:17X31
+winter_beach.ja-JP:17X31
+winter_beach.ko-KR:17X31
+winter_beach:17X31
+winter_beach.pt-BR:17X31
+winter_beach.ru-RU:17X31
+winter_beach.tr-TR:17X31
+winter_beach.zh-CN:17X31
+winter_island_tilesheet_1:32X40
+winter_monsterGraveTiles:3X5
+winter_outdoorsTileSheet.es-ES:25X79
+winter_outdoorsTileSheet.fr-FR:25X79
+winter_outdoorsTileSheet.hu-HU:25X79
+winter_outdoorsTileSheet.it-IT:25X79
+winter_outdoorsTileSheet.ja-JP:25X79
+winter_outdoorsTileSheet.ko-KR:25X79
+winter_outdoorsTileSheet:25X79
+winter_outdoorsTileSheet.pt-BR:25X79
+winter_outdoorsTileSheet.ru-RU:25X79
+winter_outdoorsTileSheet.tr-TR:25X79
+winter_outdoorsTileSheet.zh-CN:25X79
+winter_outdoorsTileSheet2:16X70
+winter_outdoorTileSheet_extra:8X8
+winter_Shadows:19X25
+winter_town.es-ES:32X72
+winter_town.fr-FR:32X72
+winter_town.hu-HU:32X72
+winter_town.it-IT:32X72
+winter_town.ja-JP:32X72
+winter_town.ko-KR:32X72
+winter_town:32X72
+winter_town.pt-BR:32X72
+winter_town.ru-RU:32X72
+winter_town.tr-TR:32X72
+winter_town.zh-CN:32X72
+winter_Waterfalls:36X25
+WitchHutTiles:8X16
+witchSwampTiles:8X16
+Darts:20X32
+jojacorps.es-ES:75X50
+jojacorps.fr-FR:75X50
+jojacorps.hu-HU:75X50
+jojacorps.ja-JP:75X50
+jojacorps.ko-KR:75X50
+jojacorps:75X50
+jojacorps.pt-BR:75X50
+jojacorps.ru-RU:75X50
+jojacorps.zh-CN:75X50
+treestrip:16X4
+AnsweringMachine:4X4
+Dwarf:4X4
+Gil:8X4
+Grandpa:8X4
+Flooring:16X16
+Flooring_winter:16X16
+hoeDirt:12X4
+hoeDirtDark:12X4
+hoeDirtSnow:12X4
+mushroom_tree:9X10
+mystic_tree:3X10
+Stalagmite:8X16
+Stalagmite_Frost:8X16
+Stalagmite_Lava:8X16
+tree1_fall:9X10
+tree1_greenRain:9X10
+tree1_greenRain_fall:9X10
+tree1_greenRain_winter:3X10
+tree1_spring:9X10
+tree1_summer:9X10
+tree1_winter:3X10
+tree2_fall:9X10
+tree2_greenRain:9X10
+tree2_greenRain_fall:9X10
+tree2_greenRain_winter:3X10
+tree2_spring:9X10
+tree2_summer:9X10
+tree2_winter:3X10
+tree3_fall:9X10
+tree3_greenRain:3X10
+tree3_greenRain_fall:3X10
+tree3_greenRain_winter:3X10
+tree3_spring:9X10
+tree3_winter:3X10
+tree8_fall:3X10
+tree8_spring:3X10
+tree8_summer:3X10
+tree8_winter:3X10
+tree_palm:3X10
+tree_palm2:6X10
+animations:40X208
+bobbers:8X10
+BuffsIcons:12X4
+bushes:8X22
+ChairTiles:15X16
+companions:16X16
+Craftables:8X92
+critters:20X40
+crops:16X64
+debris:2X20
+emotes:4X16
+Floors:4X21
+FreeCactuses:8X8
+fruitTrees:27X45
+furniture.ja-JP:32X93
+furniture.ko-KR:32X93
+furniture:32X93
+furniture.ru-RU:32X93
+furniture.zh-CN:32X93
+furnitureFront:32X93
+furniture_2:16X32
+furniture_2Front:16X32
+furniture_3:13X27
+furniture_3Front:13X27
+joja_furniture:13X21
+joja_furnitureFront:13X20
+junimo_furniture:13X27
+junimo_furnitureFront:13X27
+Mannequins:8X8
+mannequin_furniture:3X2
+Objects_2:8X20
+Projectiles:8X4
+rain:4X2
+retro_furnitureFront:13X27
+SecretNotesImages:16X16
+tools:21X24
+weapons:8X9
+wizard_furniture:13X27
+wizard_furnitureFront:13X20
+Layouts:40X40

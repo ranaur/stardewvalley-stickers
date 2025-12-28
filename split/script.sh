@@ -1,5 +1,5 @@
 #!/bin/bash
-DATABASE="$(readlink -f "$(dirname "${BASH_SOURCE[0]}")../Content\ \(unpacked\)/")"
+#DATABASE="$(readlink -f "$(dirname "${BASH_SOURCE[0]}")../Content\ \(unpacked\)/")"
 OUTPUT_DIR="$(readlink -f "$(dirname "${BASH_SOURCE[0]}")/images/")"
 GEOMETRIES="$(readlink -f "$(dirname "${BASH_SOURCE[0]}")/geometries.txt")"
 INPUT="$1"
@@ -39,7 +39,6 @@ if [ -z "$2" ] ; then
 else
     GEOMETRY="$2"
 fi
+[ ! -d "$(dirname $OUTPUT)" ] && mkdir -p "$(dirname $OUTPUT)"
 
-[ ! -d "$OUTPUT_DIR" ] && mkdir -p "$OUTPUT_DIR"
-
-echo magick "$INPUT" +repage -crop "$GEOMETRY@" +repage "$OUTPUT"
+convert "$INPUT" +repage -crop "$GEOMETRY@" +repage "$OUTPUT"

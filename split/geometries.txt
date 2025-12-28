@@ -777,3 +777,5 @@ weapons:8X9
 wizard_furniture:13X27
 wizard_furnitureFront:13X20
 Layouts:40X40
+Gunther.png:0X0
+Objects:0X0
